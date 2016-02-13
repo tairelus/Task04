@@ -14,7 +14,7 @@ public class DesktopComputer extends Computer {
 
         _computerType = "PC";
         _operationSystem = operationSystem;
-        _computerName = computerName;
+        _computerName = computerName; 
     }
 
     int powerOn(){
